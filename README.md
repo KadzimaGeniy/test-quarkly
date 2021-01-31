@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/KadzimaGeniy/test-quarkly/pulls">
+    <img src="https://badgen.net/github/prs/KadzimaGeniy/test-quarkly" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/KadzimaGeniy/test-quarkly" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
