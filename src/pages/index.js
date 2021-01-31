@@ -24,7 +24,7 @@ export default (() => {
 				md-flex-direction="column"
 			>
 				<Text margin="0" md-margin="0px 0 20px 0" text-align="left" font="--lead">
-					Awesome Company
+					Тестовый
 				</Text>
 				<Menu
 					display="flex"
